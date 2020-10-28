@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: Level Spawner SO
   m_EditorClassIdentifier: 
   easyChunks:
-  - {fileID: 588763310246427473, guid: a050c10181add2740a15f86525b02bf9, type: 3}
-  - {fileID: 8115747003771948247, guid: 74b87c7671b9b9647bd1f63a719c3123, type: 3}
-  - {fileID: 1145803258536381133, guid: 7ce7d3c6d50606140a789fc4030b117b, type: 3}
+  - {fileID: 3924427639406338559, guid: 2b14ade799af09343981658945dd8e8a, type: 3}
+  - {fileID: 5632753965032123648, guid: 43f66a7a9a373ba40b3707e61f85711c, type: 3}
+  - {fileID: 8269234565414008566, guid: ae3c668b40aea034087c07816a85e663, type: 3}
   mediumChunks: []
   hardChunks: []
