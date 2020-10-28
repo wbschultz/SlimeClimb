@@ -50,8 +50,25 @@ public class Electrify : MonoBehaviour
     {
         
     }
+/*
+    private void OnCollisionStay2D(Collision2D collision)
+    {
+        if (electrified)
+        {
+            JellySpriteReferencePoint refPoint = collision.gameObject.GetComponent<JellySpriteReferencePoint>();
+            if (refPoint != null)
+            {
+                if (refPoint.ParentJellySprite.gameObject.CompareTag("Player"))
+                {
+                    // kill player
+                    refPoint.ParentJellySprite.gameObject.GetComponent<Player>().Die();
+                }
+            }
+        }
+    }
+    */
 
-    private void OnCollisionEnter2D(Collision2D collision)
+    private void OnTriggerStay2D(Collider2D collision)
     {
         if (electrified)
         {
