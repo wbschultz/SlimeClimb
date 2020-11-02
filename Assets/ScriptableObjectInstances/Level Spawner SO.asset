@@ -13,8 +13,14 @@ MonoBehaviour:
   m_Name: Level Spawner SO
   m_EditorClassIdentifier: 
   easyChunks:
-  - {fileID: 3924427639406338559, guid: 2b14ade799af09343981658945dd8e8a, type: 3}
-  - {fileID: 5632753965032123648, guid: 43f66a7a9a373ba40b3707e61f85711c, type: 3}
-  - {fileID: 8269234565414008566, guid: ae3c668b40aea034087c07816a85e663, type: 3}
-  mediumChunks: []
-  hardChunks: []
+  - {fileID: 9003632704216195876, guid: c6ad1b5782f8d3f49b442236f13f4f06, type: 3}
+  - {fileID: 6999603456654718025, guid: 3721d817fdbeab64eb3c1475f710b418, type: 3}
+  - {fileID: 4779149473984807518, guid: 4918a188db28ad34cbb3c8102cc09ebf, type: 3}
+  mediumChunks:
+  - {fileID: 2972057671775289900, guid: 07536071d34ec034980121b265362870, type: 3}
+  - {fileID: 2512428562405273773, guid: 3c3a2d70a6209ec40b1388ba48d12df5, type: 3}
+  - {fileID: 2232791070489804427, guid: 3b0e8e8c9b5647e42a1cef696393a6ad, type: 3}
+  hardChunks:
+  - {fileID: 3924427639406338559, guid: 20cd1ad7549601b4abb47677614f0126, type: 3}
+  - {fileID: 5632753965032123648, guid: 379c59a2d8571bc4ca9e583dd9bd6232, type: 3}
+  - {fileID: 8269234565414008566, guid: a23f2b3c27c839549b8faa94243c8eba, type: 3}

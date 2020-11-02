@@ -2113,7 +2113,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0.73675394}
   m_AnchorMax: {x: 1, y: 0.8934903}
-  m_AnchoredPosition: {x: 0.00012207031, y: 135.49997}
+  m_AnchoredPosition: {x: 0.00012207031, y: 135.49998}
   m_SizeDelta: {x: 593.871, y: 345.99103}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1333751403
@@ -2926,6 +2926,7 @@ MonoBehaviour:
   slowFallYSpeed: -1
   slowFallXSpeed: 1
   slowFallSeconds: 2
+  dragTimeScale: 0.3
   deathParticle: {fileID: 1262208397585555560, guid: bd1863cc160fb6f4db4fd9dbe27379bd,
     type: 3}
 --- !u!114 &1681852964
